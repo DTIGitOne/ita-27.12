@@ -1,0 +1,93 @@
+html , body {
+   height: 100%;
+   margin: 0;
+}
+
+.root {
+   height: 100%;
+   margin: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+#button1 {
+   height: 21px;
+}
+
+#field1 {
+   height: 50%;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+#input {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+#input2 {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#field2 {
+   height: 50%;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+
+#button2 {
+   height: 21px;
+}
+
+#textbox {
+   width: 186px;
+   height: 21px;
+   font-size: 15px;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+
+.textboxError {
+   width: 186px;
+   height: 21px;
+   font-size: 15px;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   color: red;
+}
+
+#button3 {
+   height: 21px;
+}
+
+.textbox2 {
+   width: 186px;
+   height: 21px;
+   font-size: 15px;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+
+.textboxError2 {
+   width: 186px;
+   height: 21px;
+   font-size: 15px;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+   color: red;
+}
